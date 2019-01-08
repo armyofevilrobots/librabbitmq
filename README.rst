@@ -2,6 +2,8 @@
  librabbitmq - Python AMQP Client using the rabbitmq-c library.
 ================================================================
 
+*DO NOT USE THIS REPO*. It was forked as a bugfix/breakfix repo, and isn't kept up to date. Hopefully they've fixed upstream by now? :\
+
 :Version: 1.5.2
 :Download: http://pypi.python.org/pypi/librabbitmq/
 :Code: http://github.com/celery/librabbitmq/
